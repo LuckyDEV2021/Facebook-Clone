@@ -1,0 +1,233 @@
+body{
+    background-color: #e9eff0;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+}
+
+.logo{
+    width: 270px;
+    max-width: 400px;
+    margin-left: 140px;
+    display: flex;
+    margin-top: 230px;
+    position: absolute;
+    height: 106px;
+}
+
+
+.subtitulo{
+    font-size: 25px;
+    font-weight: normal;
+    margin-left: 169px;
+    margin-top: 300px;
+    float: left;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    align-items: center;
+}
+
+.títuloesub{
+    float: left;
+    margin-left: 200px;
+    margin-top: 0px;
+}
+ 
+.form1{
+    width: 372px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid rgb(209, 187, 187)
+}
+
+.form2{
+    width: 372px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid rgb(209, 187, 187);
+}
+
+.formgeral{
+    float: right;
+    margin-top: 140px;
+    margin-right: 198px;
+    background-color: white;
+    padding: 13px;
+    border-radius: 5px;
+}
+
+.button{
+    padding: 13px;
+    width: 100%;
+    border-radius: 10px;
+    outline: 0;
+    cursor: pointer;
+    background-color: #0564fc;
+    color: white;
+    font-size: 20px;
+    border-style: none;
+}
+
+.button:active{
+    background-color: rgb(65, 65, 182);
+}
+
+.button2{
+    padding: 13px;
+    color: white;
+    cursor: pointer;
+    background-color: #02d406;
+    border-radius: 10px;
+    width: 200px;
+    font-size: 20px;
+    margin-left: 87px;
+    border-style: none;
+}
+
+.button2:active{
+    background-color: rgb(4, 177, 4);
+}
+
+.link{
+    margin-left: 129px;
+    text-decoration: none;
+    color: #435df1;
+}
+
+.borderlink1{
+    margin-top: 30px;
+    border-bottom: 1px solid #ccc;
+}
+
+.link2{
+    margin-right: 11px;
+    margin-left: 642px;
+    text-decoration:underline;
+    color: black;
+    margin-top: 10px;
+    font-family: sans-serif;
+}
+
+span{
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+}
+
+.ultlink{
+    margin-right: 10px;
+    margin-left: 90px;
+    color: black;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.links-footer{
+    margin: 0%;
+    width: 100%;
+    height: 165px;
+    background-color: white;
+    margin-top: 100px;
+    display: inline-block;
+    font-size: 15px;
+    text-align: left;
+    word-spacing: 0%;
+}
+
+.links-footer > p{
+    font-size: 13px;
+    color: rgb(66, 65, 65);
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: 20px;
+    text-align: left;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif ;
+}
+
+.links-footer > a{
+    margin-left: 8px;
+    margin-right: auto;
+    text-decoration: none;
+    font-size: 13px;
+    color: #8a8d91;
+    letter-spacing: auto;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+}
+
+.border-footer{
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+
+.fila2 > a{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: -130px;
+    text-align: justify;
+    display: inline-block;
+    text-decoration: none;
+    color: #8a8d91;
+    margin-bottom: 7px;
+    font-size: 13px;
+    letter-spacing: auto;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+}
+
+.fila3 > a{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: -130px;
+    text-align: justify;
+    display: inline-block;
+    text-decoration: none;
+    color: #8a8d91;
+    margin-bottom: 7px;
+    font-size: 13px;
+    letter-spacing: auto;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;    
+}
+
+.fila4 > a{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: -130px;
+    text-align: justify;
+    display: inline-block;
+    text-decoration: none;
+    color: #8a8d91;
+    margin-bottom: 7px;
+    font-size: 13px;
+    letter-spacing: auto;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+}
+
+.fila4 > p{
+    font-size: 11px;
+    margin-left: 150px;
+    font-family: sans-serif;
+    color: #737373;;
+}
+
+.botão-footer{
+    width: 30px;
+    margin-left: 10px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.link2span{
+    margin-right: 30px;
+}
+
+
+
+
+
+
+
+
